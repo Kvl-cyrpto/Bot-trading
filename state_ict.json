@@ -9,13 +9,13 @@
  "tp": 0.0,
  "bars": 0,
  "bloque": null,
- "last_t": 1792666800,
+ "last_t": 1792668600,
  "pic": 1000.0,
  "baisse_max_pct": 0.0,
  "nb_trades": 0,
  "nb_gagnants": 0,
  "trades": [],
  "position": "aucune",
- "dernier_prix": 73015.69,
+ "dernier_prix": 72995.09,
  "valeur_totale": 1000.0
 }
