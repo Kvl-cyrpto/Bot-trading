@@ -1,0 +1,23 @@
+{
+ "eur": 0.0,
+ "pos": "short",
+ "qty": 0.01361579191019434,
+ "capital": 995.0,
+ "mise": 1000.0,
+ "entry": 73076.91,
+ "sl": 74538.4482,
+ "tp": 70153.8336,
+ "bars": 0,
+ "bloque": null,
+ "last_t": 1792665000,
+ "pic": 1000.0,
+ "baisse_max_pct": -0.5,
+ "nb_trades": 0,
+ "nb_gagnants": 0,
+ "trades": [
+  "SHORT ouvert a 73077"
+ ],
+ "position": "short",
+ "dernier_prix": 73076.91,
+ "valeur_totale": 995.0
+}
