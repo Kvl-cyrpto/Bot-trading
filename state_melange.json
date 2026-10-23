@@ -7,9 +7,9 @@
  "entry": 72823.18,
  "sl": 71366.71639999999,
  "tp": 75736.1072,
- "bars": 37,
+ "bars": 39,
  "bloque": null,
- "last_t": 1792758600,
+ "last_t": 1792760400,
  "pic": 1007.2056043420556,
  "baisse_max_pct": -2.16,
  "nb_trades": 1,
@@ -20,6 +20,6 @@
   "LONG ouvert a 72823"
  ],
  "position": "long",
- "dernier_prix": 72850.0,
- "valeur_totale": 987.71
+ "dernier_prix": 72935.13,
+ "valeur_totale": 988.87
 }
