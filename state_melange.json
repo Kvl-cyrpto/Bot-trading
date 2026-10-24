@@ -9,7 +9,7 @@
  "tp": 69757.1424,
  "bars": 96,
  "bloque": null,
- "last_t": 1792854000,
+ "last_t": 1792855800,
  "pic": 1007.2056043420556,
  "baisse_max_pct": -3.59,
  "nb_trades": 3,
@@ -23,6 +23,6 @@
   "SHORT ferme (TEMPS) a 71150 : +1.1%"
  ],
  "position": "aucune",
- "dernier_prix": 70858.27,
+ "dernier_prix": 71058.78,
  "valeur_totale": 990.9
 }
