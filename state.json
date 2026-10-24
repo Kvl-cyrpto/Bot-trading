@@ -20,8 +20,8 @@
   "VENTE a 72065",
   "ACHAT a 72104"
  ],
- "valeur_totale": 909.34,
- "dernier_prix": 72104.35,
+ "valeur_totale": 909.0,
+ "dernier_prix": 72077.33,
  "prix_achat": 72104.35,
  "attente_signal": false
 }
