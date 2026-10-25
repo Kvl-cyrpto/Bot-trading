@@ -9,7 +9,7 @@
  "tp": 74629.95280000001,
  "bars": 42,
  "bloque": null,
- "last_t": 1792917000,
+ "last_t": 1792917900,
  "pic": 1007.2056043420556,
  "baisse_max_pct": -3.79,
  "nb_trades": 5,
@@ -27,6 +27,6 @@
   "LONG ferme (SIGNAL) a 71692 : -1.1%"
  ],
  "position": "aucune",
- "dernier_prix": 71770.09,
+ "dernier_prix": 71686.16,
  "valeur_totale": 969.03
 }
