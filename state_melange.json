@@ -9,7 +9,7 @@
  "tp": 68746.7712,
  "bars": 29,
  "bloque": null,
- "last_t": 1792949400,
+ "last_t": 1792950300,
  "pic": 1007.2056043420556,
  "baisse_max_pct": -5.33,
  "nb_trades": 6,
@@ -29,6 +29,6 @@
   "SHORT ferme (SIGNAL) a 72044 : -1.6%"
  ],
  "position": "aucune",
- "dernier_prix": 72032.4,
+ "dernier_prix": 72050.73,
  "valeur_totale": 953.5
 }
