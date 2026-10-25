@@ -9,7 +9,7 @@
  "tp": 72926.78999999998,
  "bars": 96,
  "bloque": null,
- "last_t": 1792945800,
+ "last_t": 1792947600,
  "pic": 1005.6303847164412,
  "baisse_max_pct": -5.88,
  "nb_trades": 4,
@@ -25,6 +25,6 @@
   "LONG ferme (TEMPS) a 71884 : -0.2%"
  ],
  "position": "aucune",
- "dernier_prix": 71942.71,
+ "dernier_prix": 72061.68,
  "valeur_totale": 949.4
 }
