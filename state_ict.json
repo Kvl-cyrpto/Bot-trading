@@ -7,11 +7,11 @@
  "entry": 71877.59,
  "sl": 72596.3659,
  "tp": 70440.0382,
- "bars": 80,
+ "bars": 84,
  "bloque": null,
- "last_t": 1793026800,
+ "last_t": 1793030400,
  "pic": 1005.6303847164412,
- "baisse_max_pct": -6.06,
+ "baisse_max_pct": -6.35,
  "nb_trades": 4,
  "nb_gagnants": 0,
  "trades": [
@@ -26,6 +26,6 @@
   "SHORT ouvert a 71878"
  ],
  "position": "short",
- "dernier_prix": 71852.68,
- "valeur_totale": 944.98
+ "dernier_prix": 71699.69,
+ "valeur_totale": 946.99
 }
