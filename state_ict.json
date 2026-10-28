@@ -9,7 +9,7 @@
  "tp": 71010.947,
  "bars": 51,
  "bloque": null,
- "last_t": 1793178000,
+ "last_t": 1793180700,
  "pic": 1005.6303847164412,
  "baisse_max_pct": -7.87,
  "nb_trades": 7,
@@ -31,6 +31,6 @@
   "SHORT ferme (STOP) a 73185 : -2.0%"
  ],
  "position": "aucune",
- "dernier_prix": 73152.99,
+ "dernier_prix": 73102.05,
  "valeur_totale": 926.5
 }
