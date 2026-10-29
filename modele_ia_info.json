@@ -1,0 +1,23 @@
+{
+ "date": "29/10/2026 07:45",
+ "lignes": 664895,
+ "paires": [
+  "BTC-EUR",
+  "ETH-EUR",
+  "SOL-EUR",
+  "XRP-EUR",
+  "LTC-EUR",
+  "ADA-EUR",
+  "DOGE-EUR",
+  "LINK-EUR",
+  "DOT-EUR",
+  "AVAX-EUR",
+  "ATOM-EUR",
+  "XLM-EUR",
+  "BCH-EUR",
+  "UNI-EUR"
+ ],
+ "seuil_signal": 0.017704342478303575,
+ "horizon_h": 72,
+ "sklearn": "1.9.1"
+}
