@@ -9,7 +9,7 @@
  "tp": 71572.3792,
  "bars": 59,
  "bloque": null,
- "last_t": 1793252700,
+ "last_t": 1793256300,
  "pic": 1005.6303847164412,
  "baisse_max_pct": -8.37,
  "nb_trades": 8,
@@ -33,6 +33,6 @@
   "SHORT ferme (OBJECTIF) a 71572 : +1.0%"
  ],
  "position": "aucune",
- "dernier_prix": 72003.25,
+ "dernier_prix": 71674.52,
  "valeur_totale": 935.79
 }
