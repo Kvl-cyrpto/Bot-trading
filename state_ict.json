@@ -9,7 +9,7 @@
  "tp": 73167.405,
  "bars": 30,
  "bloque": null,
- "last_t": 1793289600,
+ "last_t": 1793293200,
  "pic": 1005.6303847164412,
  "baisse_max_pct": -8.37,
  "nb_trades": 9,
@@ -35,6 +35,6 @@
   "LONG ferme (OBJECTIF) a 73167 : +1.0%"
  ],
  "position": "aucune",
- "dernier_prix": 72900.84,
+ "dernier_prix": 72522.58,
  "valeur_totale": 944.98
 }
