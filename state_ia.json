@@ -1,16 +1,28 @@
 {
- "cash": 1000.0,
- "positions": {},
- "trades": [],
+ "cash": 900.0,
+ "positions": {
+  "LINK-EUR": {
+   "qty": 9.994796678713996,
+   "entry": 9.95518,
+   "t_open": 1793372071,
+   "mise": 100.0,
+   "dernier_prix": 9.95518
+  }
+ },
+ "trades": [
+  "LINK-EUR ouvert a 9.955"
+ ],
  "nb_trades": 0,
  "nb_gagnants": 0,
- "last_t": 1793361600,
+ "last_t": 1793365200,
  "pic": 1000.0,
- "baisse_max_pct": 0.0,
+ "baisse_max_pct": -0.05,
  "btc_depart": 71781.6,
- "valeur_totale": 1000.0,
- "positions_ouvertes": [],
+ "valeur_totale": 999.5,
+ "positions_ouvertes": [
+  "LINK-EUR"
+ ],
  "seuil_signal": 0.0177,
  "modele_date": "29/10/2026 07:45",
- "bitcoin_depuis_depart_pct": -4.05
+ "bitcoin_depuis_depart_pct": -3.77
 }
