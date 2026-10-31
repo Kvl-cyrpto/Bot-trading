@@ -9,7 +9,7 @@
  "tp": 67448.5,
  "bars": 60,
  "bloque": null,
- "last_t": 1793448900,
+ "last_t": 1793451600,
  "pic": 1005.6303847164412,
  "baisse_max_pct": -8.92,
  "nb_trades": 12,
@@ -41,6 +41,6 @@
   "SHORT ferme (STOP) a 69513 : -2.0%"
  ],
  "position": "aucune",
- "dernier_prix": 69531.18,
+ "dernier_prix": 69346.63,
  "valeur_totale": 918.96
 }
