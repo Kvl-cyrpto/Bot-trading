@@ -9,7 +9,7 @@
  "tp": 66421.33439999999,
  "bars": 54,
  "bloque": null,
- "last_t": 1793412900,
+ "last_t": 1793415600,
  "pic": 1007.2056043420556,
  "baisse_max_pct": -22.05,
  "nb_trades": 20,
@@ -57,6 +57,6 @@
   "SHORT ferme (SIGNAL) a 69317 : -1.2%"
  ],
  "position": "aucune",
- "dernier_prix": 69253.67,
+ "dernier_prix": 69211.82,
  "valeur_totale": 785.14
 }
