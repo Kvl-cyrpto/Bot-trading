@@ -7,9 +7,9 @@
  "entry": 69239.29,
  "sl": 67854.5042,
  "tp": 72008.86159999999,
- "bars": 14,
+ "bars": 16,
  "bloque": null,
- "last_t": 1793440800,
+ "last_t": 1793442600,
  "pic": 1007.2056043420556,
  "baisse_max_pct": -22.49,
  "nb_trades": 20,
@@ -57,6 +57,6 @@
   "LONG ouvert a 69239"
  ],
  "position": "long",
- "dernier_prix": 69386.11,
- "valeur_totale": 782.87
+ "dernier_prix": 69255.53,
+ "valeur_totale": 781.39
 }
