@@ -1,6 +1,6 @@
 {
- "date": "29/10/2026 07:45",
- "lignes": 664895,
+ "date": "01/11/2026 04:29",
+ "lignes": 665447,
  "paires": [
   "BTC-EUR",
   "ETH-EUR",
@@ -17,7 +17,7 @@
   "BCH-EUR",
   "UNI-EUR"
  ],
- "seuil_signal": 0.017704342478303575,
+ "seuil_signal": 0.0175605573641204,
  "horizon_h": 72,
  "sklearn": "1.9.1"
 }
