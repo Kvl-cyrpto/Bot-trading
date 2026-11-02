@@ -9,7 +9,7 @@
  "tp": 68862.2284,
  "bars": 52,
  "bloque": null,
- "last_t": 1793651400,
+ "last_t": 1793653200,
  "pic": 1005.6303847164412,
  "baisse_max_pct": -11.36,
  "nb_trades": 15,
@@ -47,6 +47,6 @@
   "SHORT ferme (OBJECTIF) a 68862 : +1.0%"
  ],
  "position": "aucune",
- "dernier_prix": 68679.69,
+ "dernier_prix": 68560.74,
  "valeur_totale": 904.82
 }
