@@ -6,7 +6,7 @@
    "entry": 9.95518,
    "t_open": 1793372071,
    "mise": 100.0,
-   "dernier_prix": 10.15227
+   "dernier_prix": 10.19954
   }
  },
  "trades": [
@@ -14,15 +14,15 @@
  ],
  "nb_trades": 0,
  "nb_gagnants": 0,
- "last_t": 1793581200,
+ "last_t": 1793584800,
  "pic": 1006.4576778119532,
  "baisse_max_pct": -0.54,
  "btc_depart": 71781.6,
- "valeur_totale": 1001.47,
+ "valeur_totale": 1001.94,
  "positions_ouvertes": [
   "LINK-EUR"
  ],
  "seuil_signal": 0.01756,
  "modele_date": "01/11/2026 04:29",
- "bitcoin_depuis_depart_pct": -2.15
+ "bitcoin_depuis_depart_pct": -2.02
 }
