@@ -9,7 +9,7 @@
  "tp": 69828.25140000001,
  "bars": 4,
  "bloque": null,
- "last_t": 1793763000,
+ "last_t": 1793766600,
  "pic": 1005.6303847164412,
  "baisse_max_pct": -12.7,
  "nb_trades": 17,
@@ -51,6 +51,6 @@
   "LONG ferme (STOP) a 67774 : -2.0%"
  ],
  "position": "aucune",
- "dernier_prix": 67974.9,
+ "dernier_prix": 68590.14,
  "valeur_totale": 877.92
 }
