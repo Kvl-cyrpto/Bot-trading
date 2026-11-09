@@ -9,7 +9,7 @@
  "tp": 69673.74960000001,
  "bars": 24,
  "bloque": null,
- "last_t": 1794261600,
+ "last_t": 1794264300,
  "pic": 1007.2056043420556,
  "baisse_max_pct": -33.54,
  "nb_trades": 40,
@@ -57,6 +57,6 @@
   "LONG ferme (SIGNAL) a 66847 : -1.2%"
  ],
  "position": "aucune",
- "dernier_prix": 66817.69,
+ "dernier_prix": 66910.02,
  "valeur_totale": 669.73
 }
