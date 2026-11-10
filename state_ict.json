@@ -7,9 +7,9 @@
  "entry": 66725.0,
  "sl": 67462.99,
  "tp": 65249.01999999999,
- "bars": 57,
+ "bars": 61,
  "bloque": null,
- "last_t": 1794292200,
+ "last_t": 1794295800,
  "pic": 1005.6303847164412,
  "baisse_max_pct": -24.93,
  "nb_trades": 25,
@@ -57,6 +57,6 @@
   "SHORT ouvert a 66725"
  ],
  "position": "short",
- "dernier_prix": 66454.99,
- "valeur_totale": 762.15
+ "dernier_prix": 66554.76,
+ "valeur_totale": 761.01
 }
