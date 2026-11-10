@@ -9,7 +9,7 @@
  "tp": 65249.01999999999,
  "bars": 93,
  "bloque": null,
- "last_t": 1794328200,
+ "last_t": 1794330900,
  "pic": 1005.6303847164412,
  "baisse_max_pct": -24.93,
  "nb_trades": 26,
@@ -57,6 +57,6 @@
   "SHORT ferme (OBJECTIF) a 65249 : +1.2%"
  ],
  "position": "aucune",
- "dernier_prix": 65335.85,
+ "dernier_prix": 65423.81,
  "valeur_totale": 772.16
 }
