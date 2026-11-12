@@ -1,21 +1,20 @@
 {
- "eur": 726.8768172694395,
- "pos": null,
- "qty": 0.0,
- "capital": 0.0,
- "mise": 741.616633259633,
- "entry": 66599.12,
- "sl": 65933.12879999999,
- "tp": 67931.1024,
- "bars": 80,
+ "eur": 0.0,
+ "pos": "short",
+ "qty": 0.011060811058924761,
+ "capital": 723.2424331830923,
+ "mise": 726.8768172694395,
+ "entry": 65387.83,
+ "sl": 66041.7083,
+ "tp": 64080.0734,
+ "bars": 0,
  "bloque": null,
- "last_t": 1794485700,
+ "last_t": 1794490200,
  "pic": 1005.6303847164412,
- "baisse_max_pct": -27.72,
+ "baisse_max_pct": -28.08,
  "nb_trades": 29,
  "nb_gagnants": 6,
  "trades": [
-  "LONG ouvert a 72355",
   "LONG ferme (STOP) a 71632 : -2.0%",
   "SHORT ouvert a 70477",
   "SHORT ferme (TEMPS) a 68900 : +1.2%",
@@ -54,9 +53,10 @@
   "SHORT ouvert a 66174",
   "SHORT ferme (STOP) a 66835 : -2.0%",
   "LONG ouvert a 66599",
-  "LONG ferme (STOP) a 65933 : -2.0%"
+  "LONG ferme (STOP) a 65933 : -2.0%",
+  "SHORT ouvert a 65388"
  ],
- "position": "aucune",
- "dernier_prix": 65639.1,
- "valeur_totale": 726.88
+ "position": "short",
+ "dernier_prix": 65391.54,
+ "valeur_totale": 723.2
 }
