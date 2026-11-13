@@ -9,7 +9,7 @@
  "tp": 63714.38399999999,
  "bars": 96,
  "bloque": null,
- "last_t": 1794546900,
+ "last_t": 1794550500,
  "pic": 1007.2056043420556,
  "baisse_max_pct": -35.62,
  "nb_trades": 44,
@@ -57,6 +57,6 @@
   "SHORT ferme (TEMPS) a 64085 : +2.4%"
  ],
  "position": "aucune",
- "dernier_prix": 61899.86,
+ "dernier_prix": 62282.27,
  "valeur_totale": 670.41
 }
