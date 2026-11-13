@@ -9,7 +9,7 @@
  "tp": 64080.0734,
  "bars": 44,
  "bloque": null,
- "last_t": 1794533400,
+ "last_t": 1794537000,
  "pic": 1005.6303847164412,
  "baisse_max_pct": -28.08,
  "nb_trades": 30,
@@ -57,6 +57,6 @@
   "SHORT ferme (OBJECTIF) a 64080 : +1.0%"
  ],
  "position": "aucune",
- "dernier_prix": 64121.82,
+ "dernier_prix": 63419.51,
  "valeur_totale": 734.16
 }
