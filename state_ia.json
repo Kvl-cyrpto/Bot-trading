@@ -1,30 +1,39 @@
 {
- "cash": 899.3450727357517,
+ "cash": 800.2635740443679,
  "positions": {
   "DOT-EUR": {
    "qty": 144.68509044303337,
    "entry": 0.6872,
    "t_open": 1794677741,
    "mise": 99.92723030397241,
-   "dernier_prix": 0.6383
+   "dernier_prix": 0.6322
+  },
+  "AVAX-EUR": {
+   "qty": 15.413710318625206,
+   "entry": 6.396,
+   "t_open": 1794695872,
+   "mise": 99.08149869138374,
+   "dernier_prix": 6.396
   }
  },
  "trades": [
   "LINK-EUR ouvert a 9.955",
   "LINK-EUR ferme (72h) a 9.982 : -0.7%",
-  "DOT-EUR ouvert a 0.6872"
+  "DOT-EUR ouvert a 0.6872",
+  "AVAX-EUR ouvert a 6.396"
  ],
  "nb_trades": 1,
  "nb_gagnants": 0,
- "last_t": 1794686400,
+ "last_t": 1794690000,
  "pic": 1006.4576778119532,
- "baisse_max_pct": -1.47,
+ "baisse_max_pct": -1.6,
  "btc_depart": 71781.6,
- "valeur_totale": 991.7,
+ "valeur_totale": 990.32,
  "positions_ouvertes": [
+  "AVAX-EUR",
   "DOT-EUR"
  ],
  "seuil_signal": 0.01756,
  "modele_date": "01/11/2026 04:29",
- "bitcoin_depuis_depart_pct": -18.33
+ "bitcoin_depuis_depart_pct": -19.5
 }
