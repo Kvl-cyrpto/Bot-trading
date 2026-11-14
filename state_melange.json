@@ -9,7 +9,7 @@
  "tp": 57519.638399999996,
  "bars": 18,
  "bloque": null,
- "last_t": 1794693600,
+ "last_t": 1794696300,
  "pic": 1007.2056043420556,
  "baisse_max_pct": -37.17,
  "nb_trades": 48,
@@ -57,6 +57,6 @@
   "SHORT ferme (OBJECTIF) a 57520 : +3.0%"
  ],
  "position": "aucune",
- "dernier_prix": 58325.0,
+ "dernier_prix": 57754.43,
  "valeur_totale": 675.28
 }
