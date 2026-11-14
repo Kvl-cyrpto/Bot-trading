@@ -7,9 +7,9 @@
  "entry": 59916.29,
  "sl": 61114.6158,
  "tp": 57519.638399999996,
- "bars": 6,
+ "bars": 9,
  "bloque": null,
- "last_t": 1794682800,
+ "last_t": 1794685500,
  "pic": 1007.2056043420556,
  "baisse_max_pct": -37.17,
  "nb_trades": 47,
@@ -57,6 +57,6 @@
   "SHORT ouvert a 59916"
  ],
  "position": "short",
- "dernier_prix": 59530.52,
- "valeur_totale": 656.52
+ "dernier_prix": 59735.66,
+ "valeur_totale": 654.29
 }
