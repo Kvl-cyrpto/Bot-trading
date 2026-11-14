@@ -9,7 +9,7 @@
  "tp": 59516.304,
  "bars": 61,
  "bloque": null,
- "last_t": 1794669300,
+ "last_t": 1794672000,
  "pic": 1007.2056043420556,
  "baisse_max_pct": -37.17,
  "nb_trades": 47,
@@ -57,6 +57,6 @@
   "SHORT ferme (OBJECTIF) a 59516 : +3.0%"
  ],
  "position": "aucune",
- "dernier_prix": 59338.2,
+ "dernier_prix": 59333.91,
  "valeur_totale": 655.6
 }
