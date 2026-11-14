@@ -6,7 +6,7 @@
    "entry": 0.6872,
    "t_open": 1794677741,
    "mise": 99.92723030397241,
-   "dernier_prix": 0.6872
+   "dernier_prix": 0.6847
   }
  },
  "trades": [
@@ -16,15 +16,15 @@
  ],
  "nb_trades": 1,
  "nb_gagnants": 0,
- "last_t": 1794672000,
+ "last_t": 1794675600,
  "pic": 1006.4576778119532,
- "baisse_max_pct": -0.76,
+ "baisse_max_pct": -0.8,
  "btc_depart": 71781.6,
- "valeur_totale": 998.77,
+ "valeur_totale": 998.41,
  "positions_ouvertes": [
   "DOT-EUR"
  ],
  "seuil_signal": 0.01756,
  "modele_date": "01/11/2026 04:29",
- "bitcoin_depuis_depart_pct": -16.9
+ "bitcoin_depuis_depart_pct": -16.7
 }
