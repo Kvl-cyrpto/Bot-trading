@@ -6,14 +6,14 @@
    "entry": 0.6872,
    "t_open": 1794677741,
    "mise": 99.92723030397241,
-   "dernier_prix": 0.6726
+   "dernier_prix": 0.651
   },
   "AVAX-EUR": {
    "qty": 15.413710318625206,
    "entry": 6.396,
    "t_open": 1794695872,
    "mise": 99.08149869138374,
-   "dernier_prix": 6.613
+   "dernier_prix": 6.315
   }
  },
  "trades": [
@@ -24,16 +24,16 @@
  ],
  "nb_trades": 1,
  "nb_gagnants": 0,
- "last_t": 1794920400,
+ "last_t": 1794924000,
  "pic": 1006.4576778119532,
  "baisse_max_pct": -1.93,
  "btc_depart": 71781.6,
- "valeur_totale": 999.51,
+ "valeur_totale": 991.79,
  "positions_ouvertes": [
   "AVAX-EUR",
   "DOT-EUR"
  ],
  "seuil_signal": 0.01756,
  "modele_date": "01/11/2026 04:29",
- "bitcoin_depuis_depart_pct": -17.61
+ "bitcoin_depuis_depart_pct": -19.79
 }
