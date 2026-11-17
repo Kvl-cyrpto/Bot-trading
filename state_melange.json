@@ -9,7 +9,7 @@
  "tp": 56344.627199999995,
  "bars": 44,
  "bloque": null,
- "last_t": 1794928500,
+ "last_t": 1794932100,
  "pic": 1007.2056043420556,
  "baisse_max_pct": -39.8,
  "nb_trades": 55,
@@ -57,6 +57,6 @@
   "SHORT ferme (SIGNAL) a 59099 : -1.7%"
  ],
  "position": "aucune",
- "dernier_prix": 58991.03,
+ "dernier_prix": 57957.52,
  "valeur_totale": 606.34
 }
