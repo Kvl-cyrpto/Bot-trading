@@ -11,7 +11,7 @@
  ],
  "nb_trades": 3,
  "nb_gagnants": 1,
- "last_t": 1794970800,
+ "last_t": 1794978000,
  "pic": 1006.4576778119532,
  "baisse_max_pct": -1.93,
  "btc_depart": 71781.6,
@@ -19,5 +19,5 @@
  "positions_ouvertes": [],
  "seuil_signal": 0.01756,
  "modele_date": "01/11/2026 04:29",
- "bitcoin_depuis_depart_pct": -18.4
+ "bitcoin_depuis_depart_pct": -18.12
 }
