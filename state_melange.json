@@ -9,7 +9,7 @@
  "tp": 61204.0,
  "bars": 48,
  "bloque": null,
- "last_t": 1795008600,
+ "last_t": 1795011300,
  "pic": 1007.2056043420556,
  "baisse_max_pct": -42.62,
  "nb_trades": 57,
@@ -57,6 +57,6 @@
   "LONG ferme (SIGNAL) a 58411 : -1.7%"
  ],
  "position": "aucune",
- "dernier_prix": 58275.04,
+ "dernier_prix": 58012.06,
  "valeur_totale": 577.96
 }
