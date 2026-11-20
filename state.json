@@ -1,8 +1,7 @@
 {
- "eur": 0.0,
- "btc": 0.006280392771020642,
+ "eur": 349.7467669706606,
+ "btc": 0.0,
  "trades": [
-  "VENTE a 66110",
   "ACHAT a 66385",
   "VENTE a 66410",
   "ACHAT a 66862",
@@ -51,10 +50,11 @@
   "VENTE a 57888",
   "ACHAT a 57998",
   "VENTE a 57643",
-  "ACHAT a 56634"
+  "ACHAT a 56634",
+  "VENTE a 55969"
  ],
- "valeur_totale": 354.99,
- "dernier_prix": 56522.78,
- "prix_achat": 56633.73,
+ "valeur_totale": 349.75,
+ "dernier_prix": 55968.52,
+ "prix_achat": null,
  "attente_signal": false
 }
